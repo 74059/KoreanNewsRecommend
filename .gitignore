@@ -5,5 +5,8 @@
 __pycache__
 __pycache__/
 
-# DKN 모델 저장 공간
-DKN
+# DKN : https://github.com/recommenders-team/recommenders
+recommenders
+
+# khaiii : https://github.com/kakao/khaiii
+khaiii
